@@ -1,0 +1,14 @@
+{
+  "name": "delite-fullBuild",
+  "version": "0.5.1",
+  "dependencies": {
+    "requirejs": "2.1.x"
+  },
+  "ignore": [
+    ".jshintrc",
+    ".gitattributes",
+    ".travis.yml",
+    "tests",
+    "CONTRIBUTING.md"
+  ]
+}
